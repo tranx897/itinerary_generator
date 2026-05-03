@@ -1,7 +1,7 @@
 import streamlit as st
 import requests
 
-BACKEND_URL = "https://itinerary-generator-ax29.onrender.com"
+BACKEND_URL = "https://itinerary-generator-2r2d.onrender.com"
 
 st.title("AI Itinerary Generator")
 
